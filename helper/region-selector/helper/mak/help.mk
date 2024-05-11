@@ -15,5 +15,7 @@ help:
 	@echo
 	@echo '	$$ make apply-crossover'
 	@echo
+	@echo '	$$ make apply-negative-cross'
+	@echo
 	@echo
 .PHONY: help
