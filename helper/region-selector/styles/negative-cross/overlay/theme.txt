@@ -89,8 +89,8 @@ terminal-box: "asset/terminal-box/terminal-box-*.png"
 	text_color = "white"
 
 	highlight_overlay = true
-	bar_style = "asset/progress-box/progress-box-*.png"
-	highlight_style = "asset/progress-bar/progress-bar-*.png"
+	bar_style = "asset/negative-progress-box/progress-box-*.png"
+	highlight_style = "asset/negative-progress-bar/progress-bar-*.png"
 }
 
 
